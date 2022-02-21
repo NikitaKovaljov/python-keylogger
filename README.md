@@ -5,10 +5,12 @@ This repo is used for local backup, for future fixes and improvments, and to sho
 
 ## Installation
 
-##### Use the package manager [pip](https://pip.pypa.io/en/stable/) to install "rich" library for cool loading screen.
+##### Use the package manager [pip](https://pip.pypa.io/en/stable/) to install "pyxhook" and "schedule" library for capturing buttons and setting time for reverse shell.
 
 ```bash
-pip3 install rich
+pip3 install pyxhook
+
+pip3 install schedule
 ```
 
 ## Usage
